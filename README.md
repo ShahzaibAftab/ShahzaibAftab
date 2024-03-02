@@ -1,5 +1,5 @@
 # 💫 Introduction:
-🖥️ A tech Enthusiast, a Full-Stack Developer. <br><br> 🚀 Passionate about building scalable, efficient, and innovative Web Solutions.<br><br>🛠️ Proficient in JavaScript libraries and frameworks i.e. Node.js, React.js, Express.js, and MongoDB, with a strong understanding of web development principles and best practices.<br><br>💻 Experienced in developing responsive and intuitive user interfaces, designing robust backend systems, and deploying applications to production environments.<br><br>🔧 Continuously learning and adapting to emerging technologies to deliver top-notch solutions that meet client needs and exceed expectations.<br><br>📫 Reach out to me at shahhzaibaftab@gmail.com to discuss collaborations, explore networking opportunities, or share insights on the latest trends in tech! 
+🖥️ A tech Enthusiast, a Full-Stack Developer. <br><br> 🚀 Passionate about building scalable, efficient, and innovative Web Solutions.<br><br>🛠️ Proficient in JavaScript libraries and frameworks i.e. React.js,Next.js, Node.js and Express.js with a strong understanding of web development principles and best practices.<br><br> 🤖Data Encryption, authentication and authorization. <br><br>💻 Experienced in developing responsive and intuitive user interfaces, designing robust backend systems, and deploying applications to production environments.<br><br>🔧 Continuously learning and adapting to emerging technologies to deliver top-notch solutions that meet client needs and exceed expectations.<br><br>📫 Reach out to me at shahhzaibaftab@gmail.com to discuss collaborations, explore networking opportunities, or share insights on the latest trends in tech! 
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAftab&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAftab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
