@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShahzaibAftab/ShahzaibAftab/blob/main/cover.png)
 
-# 💫 Hi! I'm Shahzaib Aftab:
+# 💫 Hi! I'm Shahzaib Aftab
  🚀 I develope scalable, efficient, and innovative Web Solutions.<br><br>✔Proficient in JavaScript libraries and frameworks such as React.js, Next.js, Node.js, and Express.js, with a solid grasp of web principles and best practices.<br><br>🤖 Specialized in Data Encryption, Authentication, and Authorization.<br><br>💻 Architecting robust backend systems, and deploying applications to production environments.<br><br>🔧 Committed to continuous learning and embracing emerging technologies to deliver exceptional results<br><br>My Projects are available at [shahzaib's Portfolio](https://6571e516f06a41009e2ef166--sage-sfogliatella-ee57de.netlify.app/) <br><br>📫 Let's connect! Reach out to me at shahhzaibaftab@gmail.com for collaborations, networking opportunities, or to exchange insights on the latest tech trends!
 
 
