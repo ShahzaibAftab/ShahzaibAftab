@@ -1,4 +1,4 @@
-![logo](https://github.com/ShahzaibAftab/ShahzaibAftab/blob/main/cover.png)
+![logo](https://github.com/ShahzaibAftab/ShahzaibAftab/blob/main/cover_updated.png)
 
 # 👋 Hi! I'm Shahzaib Aftab
 
