@@ -6,8 +6,8 @@
 
 ## 🚀 What I Do
 
-- 🤖 Build intelligent **AI chatbots** and AI Powered solutions
-- ⚙️ Architect **scalable backend systems** with NestJS, Node.js, and Express.js
+- 🤖 Building **AI chatbots** and AI Powered solutions
+- ⚙️ Architect **scalable backend systems** with Next.js, Nest.js, Node.js, and Express.js
 - 🎨 Design and develop **intuitive user interfaces** with modern frontend frameworks
 - 💡 Implement **complex business logic** across the full stack
 - 💳 Integrate **payment gateways** (Stripe, Merchant Warrior) and third-party APIs
