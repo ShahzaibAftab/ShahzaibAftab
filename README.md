@@ -17,7 +17,7 @@
 
 ## 💼 Professional Experience
 
-Currently working on enterprise-level applications with proprietary code. My public repositories showcase personal projects and experiments with cutting-edge technologies.
+Currently working on enterprise-level applications with proprietary code. My public repositories showcase personal projects and experiments with multiple Tech Stacks.
 
 ## 🛠️ Tech Stack
 
